@@ -23,7 +23,7 @@ function Footer() {
             
             <li className="social-icons">
               <a
-                href=""
+                href="https://twitter.com/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href=""
+                href="/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href=""
+                href="/"
                 style={{ color: "white" }}
        
                 rel="noopener noreferrer"
